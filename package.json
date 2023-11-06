@@ -1,0 +1,21 @@
+{
+  "name": "shades-of-buntu",
+  "displayName": "shades-of-buntu",
+  "description": " design created by 17030752 that is the essence of ubuntu colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shades Of Buntu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shades Of Buntu-color-theme.json"
+      }
+    ]
+  }
+}
